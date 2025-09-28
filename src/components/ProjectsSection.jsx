@@ -91,8 +91,8 @@ const Projects = () => {
       description: "Red neuronal de Python para detectar digitos numéricos manuscritos",
       image: "/img/numerix.jpg",
       tech: ["Python"],
-      demo: "https://www.youtube.com/watch?v=FjMt51x6rc4",
-      github: null
+      demo: "https://numerix-project.netlify.app",
+      github: "https://github.com/AlanSalgado/numerix"
     },
     {
       id: 11,
